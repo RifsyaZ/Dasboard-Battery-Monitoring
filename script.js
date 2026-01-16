@@ -2,7 +2,7 @@
 const CONFIG = {
     apiEndpoint: "https://script.google.com/macros/s/AKfycbwzL42zeBad2lZh5S3NzQwQiiURV0xdpbrZcbKaK_X6ZnIzX3tAQ8IY_k_gGHjw9ylqsQ/exec",
     refreshInterval: 2000,
-    historyPageSize: 500000,
+    historyPageSize: 15,
     espTimeout: 15000
 };
 
